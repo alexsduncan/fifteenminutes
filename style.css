@@ -1,0 +1,89 @@
+body
+{
+	background-color: #39aecf;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 30px;
+}
+
+iframe
+{
+	float: left;
+}
+
+form
+{
+	/*text-align: center;*/
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 24px;
+	margin-bottom: 5px;
+	display: inline-block;
+}
+
+.submit input
+{
+	color: #000;
+	background: #ff8100;
+	border-radius: 50px;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 24px;
+	float: left;
+}
+
+.user input
+{
+	font-size: 24px;
+	float: left;
+	margin-right: 10px;
+}
+
+.logo
+{
+	font-family: 'Baumans', cursive;
+	font-size: 70px;
+	text-align: center;
+	color: #ffffff;
+}
+
+.sublogo
+{
+	font-family: 'Baumans', cursive;
+	font-size: 40px;
+	text-align: center;
+	color: #00627A;
+}
+
+a
+{
+	text-decoration:none;
+	color: #ffffff;
+}
+
+.vidvid
+{
+	display: inline-block;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	font-size: 18px;
+}
+
+.disp
+{
+	font-size: 24px;
+}
+
+.example
+{
+	font-size: 18px;
+	color: #C7C7B8;
+}
+
+#currentSimState
+{
+	font-size: 22px;
+}
+
+.testClass
+{
+	text-align: center;
+}
